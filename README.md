@@ -1,1 +1,8 @@
 # repo-template
+{
+  "mcpServers": {
+    "Figma": {
+      "url": "https://mcp.figma.com/mcp"
+    }
+  }
+}
